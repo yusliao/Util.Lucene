@@ -1,0 +1,7 @@
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu\bin\x64\Debug\PanGu.dll
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu\bin\x64\Debug\PanGu.pdb
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\x64\Debug\PanGu.csprojResolveAssemblyReference.cache
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\x64\Debug\PanGu.AnalyzerResource.resources
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\x64\Debug\PanGu.csproj.GenerateResource.Cache
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\x64\Debug\PanGu.dll
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\x64\Debug\PanGu.pdb

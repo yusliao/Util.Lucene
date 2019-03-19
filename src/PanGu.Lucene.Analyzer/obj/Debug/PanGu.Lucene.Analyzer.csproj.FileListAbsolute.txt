@@ -1,0 +1,86 @@
+C:\Users\jimliu\Downloads\pangusegment-96133\PanGu4Lucene\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\jimliu\Downloads\pangusegment-96133\PanGu4Lucene\Debug\PanGu.Lucene.Analyzer.dll
+C:\Users\jimliu\Downloads\pangusegment-96133\PanGu4Lucene\Debug\PanGu.Lucene.Analyzer.pdb
+C:\Users\jimliu\Downloads\pangusegment-96133\PanGu4Lucene\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.dll
+C:\Users\jimliu\Downloads\pangusegment-96133\PanGu4Lucene\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.pdb
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\Debug\PanGu.Lucene.Analyzer.dll
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\Debug\PanGu.Lucene.Analyzer.pdb
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.csprojResolveAssemblyReference.cache
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.dll
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.pdb
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\Debug\Dictionaries\ChsDoubleName1.txt
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\Debug\Dictionaries\ChsDoubleName2.txt
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\Debug\Dictionaries\ChsSingleName.txt
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\Debug\Dictionaries\Stopword.txt
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\Debug\Dictionaries\Synonym.txt
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\Debug\Dictionaries\Wildcard.txt
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\Debug\PanGu.xml
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\Debug\Dictionaries\Dict.dct
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu.Lucene.Analyzer\bin\Debug\PanGu.Lucene.Analyzer.dll
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu.Lucene.Analyzer\bin\Debug\PanGu.Lucene.Analyzer.pdb
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu.Lucene.Analyzer\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu.Lucene.Analyzer\bin\Debug\Lucene.Net.dll
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu.Lucene.Analyzer\bin\Debug\PanGu.dll
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu.Lucene.Analyzer\bin\Debug\PanGu.pdb
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu.Lucene.Analyzer\bin\Debug\Lucene.Net.pdb
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu.Lucene.Analyzer\bin\Debug\Lucene.Net.xml
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Debug\PanGu.Lucene.Analyzer.dll
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Debug\PanGu.Lucene.Analyzer.pdb
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Debug\Lucene.Net.dll
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Debug\PanGu.dll
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Debug\PanGu.pdb
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Debug\Lucene.Net.pdb
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Debug\Lucene.Net.xml
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.csprojResolveAssemblyReference.cache
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.dll
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.pdb
+D:\我的项目\Lucenc.net\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Debug\PanGu.Lucene.Analyzer.dll
+D:\我的项目\Lucenc.net\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Debug\PanGu.Lucene.Analyzer.pdb
+D:\我的项目\Lucenc.net\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\我的项目\Lucenc.net\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Debug\Lucene.Net.dll
+D:\我的项目\Lucenc.net\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Debug\PanGu.dll
+D:\我的项目\Lucenc.net\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Debug\PanGu.pdb
+D:\我的项目\Lucenc.net\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Debug\Lucene.Net.pdb
+D:\我的项目\Lucenc.net\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Debug\Lucene.Net.xml
+D:\我的项目\Lucenc.net\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.csprojResolveAssemblyReference.cache
+D:\我的项目\Lucenc.net\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.dll
+D:\我的项目\Lucenc.net\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.pdb
+D:\我的项目\Lucenc.net\configserver\PanGu.Lucene.Analyzer\bin\Debug\PanGu.Lucene.Analyzer.dll
+D:\我的项目\Lucenc.net\configserver\PanGu.Lucene.Analyzer\bin\Debug\PanGu.Lucene.Analyzer.pdb
+D:\我的项目\Lucenc.net\configserver\PanGu.Lucene.Analyzer\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\我的项目\Lucenc.net\configserver\PanGu.Lucene.Analyzer\bin\Debug\Lucene.Net.dll
+D:\我的项目\Lucenc.net\configserver\PanGu.Lucene.Analyzer\bin\Debug\PanGu.dll
+D:\我的项目\Lucenc.net\configserver\PanGu.Lucene.Analyzer\bin\Debug\PanGu.pdb
+D:\我的项目\Lucenc.net\configserver\PanGu.Lucene.Analyzer\bin\Debug\Lucene.Net.pdb
+D:\我的项目\Lucenc.net\configserver\PanGu.Lucene.Analyzer\bin\Debug\Lucene.Net.xml
+D:\我的项目\Lucenc.net\configserver\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.dll
+D:\我的项目\Lucenc.net\configserver\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.pdb
+D:\我的项目\Lucenc.net\configserver\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.csprojResolveAssemblyReference.cache
+D:\我的项目\Lucenc.net\configserver\libs\PanGu.Lucene.Analyzer.dll
+D:\我的项目\Lucenc.net\configserver\libs\PanGu.Lucene.Analyzer.pdb
+E:\程序\configserver\libs\PanGu.Lucene.Analyzer.dll
+E:\程序\configserver\libs\PanGu.Lucene.Analyzer.pdb
+E:\程序\configserver\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.csprojResolveAssemblyReference.cache
+E:\程序\configserver\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.dll
+E:\程序\configserver\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.pdb
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\libs\PanGu.Lucene.Analyzer.dll
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\libs\PanGu.Lucene.Analyzer.pdb
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.dll
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.pdb
+D:\project\CardDataAnalysis\CardDataAnalysis\libs\PanGu.Lucene.Analyzer.dll
+D:\project\CardDataAnalysis\CardDataAnalysis\libs\PanGu.Lucene.Analyzer.pdb
+D:\project\CardDataAnalysis\CardDataAnalysis\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.csprojResolveAssemblyReference.cache
+D:\project\CardDataAnalysis\CardDataAnalysis\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.csproj.CoreCompileInputs.cache
+D:\project\CardDataAnalysis\CardDataAnalysis\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.dll
+D:\project\CardDataAnalysis\CardDataAnalysis\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.pdb
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\Util.Lucene\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.csprojAssemblyReference.cache
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\Util.Lucene\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\Util.Lucene\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.dll
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\Util.Lucene\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.pdb
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\Util.Lucene\libs\PanGu.Lucene.Analyzer.dll
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\Util.Lucene\libs\PanGu.Lucene.Analyzer.pdb
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\Util.Lucene\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.csproj.CopyComplete
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\output\debug\PanGu.Lucene.Analyzer.dll
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\output\debug\PanGu.Lucene.Analyzer.pdb

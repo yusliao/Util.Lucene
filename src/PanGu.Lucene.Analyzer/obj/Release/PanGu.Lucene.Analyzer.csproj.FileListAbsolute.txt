@@ -1,0 +1,55 @@
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu.Lucene.Analyzer\bin\Release\PanGu.Lucene.Analyzer.dll
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu.Lucene.Analyzer\bin\Release\PanGu.Lucene.Analyzer.pdb
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu.Lucene.Analyzer\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu.Lucene.Analyzer\bin\Release\Lucene.Net.dll
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu.Lucene.Analyzer\bin\Release\PanGu.dll
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu.Lucene.Analyzer\bin\Release\PanGu.pdb
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu.Lucene.Analyzer\bin\Release\Lucene.Net.pdb
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu.Lucene.Analyzer\bin\Release\Lucene.Net.xml
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu.Lucene.Analyzer\obj\Release\PanGu.Lucene.Analyzer.csprojResolveAssemblyReference.cache
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu.Lucene.Analyzer\obj\Release\PanGu.Lucene.Analyzer.dll
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu.Lucene.Analyzer\obj\Release\PanGu.Lucene.Analyzer.pdb
+C:\Users\Aren\Downloads\Lucene.Net.Analysis.PanGu-master\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Release\PanGu.Lucene.Analyzer.dll
+C:\Users\Aren\Downloads\Lucene.Net.Analysis.PanGu-master\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Release\PanGu.Lucene.Analyzer.pdb
+C:\Users\Aren\Downloads\Lucene.Net.Analysis.PanGu-master\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Aren\Downloads\Lucene.Net.Analysis.PanGu-master\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Release\Lucene.Net.dll
+C:\Users\Aren\Downloads\Lucene.Net.Analysis.PanGu-master\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Release\PanGu.dll
+C:\Users\Aren\Downloads\Lucene.Net.Analysis.PanGu-master\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Release\PanGu.pdb
+C:\Users\Aren\Downloads\Lucene.Net.Analysis.PanGu-master\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Release\Lucene.Net.pdb
+C:\Users\Aren\Downloads\Lucene.Net.Analysis.PanGu-master\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Release\Lucene.Net.xml
+C:\Users\Aren\Downloads\Lucene.Net.Analysis.PanGu-master\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\obj\Release\PanGu.Lucene.Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Aren\Downloads\Lucene.Net.Analysis.PanGu-master\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\obj\Release\PanGu.Lucene.Analyzer.dll
+C:\Users\Aren\Downloads\Lucene.Net.Analysis.PanGu-master\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\obj\Release\PanGu.Lucene.Analyzer.pdb
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Release\PanGu.Lucene.Analyzer.dll
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Release\PanGu.Lucene.Analyzer.pdb
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Release\Lucene.Net.dll
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Release\PanGu.dll
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Release\PanGu.pdb
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Release\Lucene.Net.pdb
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Release\Lucene.Net.xml
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\obj\Release\PanGu.Lucene.Analyzer.csprojResolveAssemblyReference.cache
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\obj\Release\PanGu.Lucene.Analyzer.dll
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\obj\Release\PanGu.Lucene.Analyzer.pdb
+D:\我的项目\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Release\PanGu.Lucene.Analyzer.dll
+D:\我的项目\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Release\PanGu.Lucene.Analyzer.pdb
+D:\我的项目\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\我的项目\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Release\Lucene.Net.dll
+D:\我的项目\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Release\PanGu.dll
+D:\我的项目\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Release\PanGu.pdb
+D:\我的项目\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Release\Lucene.Net.pdb
+D:\我的项目\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\Release\Lucene.Net.xml
+D:\我的项目\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\obj\Release\PanGu.Lucene.Analyzer.csprojResolveAssemblyReference.cache
+D:\我的项目\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\obj\Release\PanGu.Lucene.Analyzer.dll
+D:\我的项目\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\obj\Release\PanGu.Lucene.Analyzer.pdb
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\PanGu.Lucene.Analyzer\bin\Release\PanGu.Lucene.Analyzer.dll
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\PanGu.Lucene.Analyzer\bin\Release\PanGu.Lucene.Analyzer.pdb
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\PanGu.Lucene.Analyzer\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\PanGu.Lucene.Analyzer\bin\Release\Lucene.Net.dll
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\PanGu.Lucene.Analyzer\bin\Release\PanGu.dll
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\PanGu.Lucene.Analyzer\bin\Release\PanGu.pdb
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\PanGu.Lucene.Analyzer\bin\Release\Lucene.Net.pdb
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\PanGu.Lucene.Analyzer\bin\Release\Lucene.Net.xml
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\PanGu.Lucene.Analyzer\obj\Release\PanGu.Lucene.Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\PanGu.Lucene.Analyzer\obj\Release\PanGu.Lucene.Analyzer.dll
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\PanGu.Lucene.Analyzer\obj\Release\PanGu.Lucene.Analyzer.pdb

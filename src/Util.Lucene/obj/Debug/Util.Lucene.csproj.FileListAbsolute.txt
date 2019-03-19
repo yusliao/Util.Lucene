@@ -1,0 +1,7 @@
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\Util.Lucene\Util.Lucene\obj\Debug\Util.Lucene.csprojAssemblyReference.cache
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\Util.Lucene\Util.Lucene\obj\Debug\Util.Lucene.csproj.CoreCompileInputs.cache
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\output\debug\Util.Lucene.dll
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\output\debug\Util.Lucene.pdb
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\Util.Lucene\Util.Lucene\obj\Debug\Util.Lucene.csproj.CopyComplete
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\Util.Lucene\Util.Lucene\obj\Debug\Util.Lucene.dll
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\Util.Lucene\Util.Lucene\obj\Debug\Util.Lucene.pdb

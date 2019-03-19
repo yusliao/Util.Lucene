@@ -1,0 +1,11 @@
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\x64\Debug\PanGu.Lucene.Analyzer.dll
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\x64\Debug\PanGu.Lucene.Analyzer.pdb
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\x64\Debug\ICSharpCode.SharpZipLib.dll
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\x64\Debug\Lucene.Net.dll
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\x64\Debug\PanGu.dll
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\x64\Debug\PanGu.pdb
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\x64\Debug\Lucene.Net.pdb
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\bin\x64\Debug\Lucene.Net.xml
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\obj\x64\Debug\PanGu.Lucene.Analyzer.csprojResolveAssemblyReference.cache
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\obj\x64\Debug\PanGu.Lucene.Analyzer.dll
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu.Lucene.Analyzer\obj\x64\Debug\PanGu.Lucene.Analyzer.pdb

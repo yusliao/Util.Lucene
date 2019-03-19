@@ -1,0 +1,83 @@
+C:\Users\jimliu\Downloads\pangusegment-96133\Bin\Debug\PanGu.dll
+C:\Users\jimliu\Downloads\pangusegment-96133\Bin\Debug\PanGu.pdb
+C:\Users\jimliu\Downloads\pangusegment-96133\PanGuSegment\PanGu\obj\Debug\PanGu.AnalyzerResource.resources
+C:\Users\jimliu\Downloads\pangusegment-96133\PanGuSegment\PanGu\obj\Debug\PanGu.csproj.GenerateResource.Cache
+C:\Users\jimliu\Downloads\pangusegment-96133\PanGuSegment\PanGu\obj\Debug\PanGu.dll
+C:\Users\jimliu\Downloads\pangusegment-96133\PanGuSegment\PanGu\obj\Debug\PanGu.pdb
+C:\Users\jimliu\Downloads\pangusegment-96133\PanGuSegment\PanGu\obj\Debug\PanGu.csprojResolveAssemblyReference.cache
+D:\GitHub\Lucene.Net.Analysis.PanGu\Bin\Debug\PanGu.dll
+D:\GitHub\Lucene.Net.Analysis.PanGu\Bin\Debug\PanGu.pdb
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu\obj\Debug\PanGu.AnalyzerResource.resources
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu\obj\Debug\PanGu.csproj.GenerateResource.Cache
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu\obj\Debug\PanGu.dll
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu\obj\Debug\PanGu.pdb
+D:\GitHub\Lucene.Net.Analysis.PanGu\Bin\Debug\Dictionaries\ChsDoubleName1.txt
+D:\GitHub\Lucene.Net.Analysis.PanGu\Bin\Debug\Dictionaries\ChsDoubleName2.txt
+D:\GitHub\Lucene.Net.Analysis.PanGu\Bin\Debug\Dictionaries\ChsSingleName.txt
+D:\GitHub\Lucene.Net.Analysis.PanGu\Bin\Debug\Dictionaries\Stopword.txt
+D:\GitHub\Lucene.Net.Analysis.PanGu\Bin\Debug\Dictionaries\Synonym.txt
+D:\GitHub\Lucene.Net.Analysis.PanGu\Bin\Debug\Dictionaries\Wildcard.txt
+D:\GitHub\Lucene.Net.Analysis.PanGu\Bin\Debug\PanGu.xml
+D:\GitHub\Lucene.Net.Analysis.PanGu\Bin\Debug\Dictionaries\Dict.dct
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu\bin\Debug\PanGu.dll
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu\bin\Debug\PanGu.pdb
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu\bin\Debug\PanGu.dll
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu\bin\Debug\PanGu.pdb
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Debug\PanGu.csprojResolveAssemblyReference.cache
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Debug\PanGu.AnalyzerResource.resources
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Debug\PanGu.csproj.GenerateResource.Cache
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Debug\PanGu.dll
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Debug\PanGu.pdb
+D:\我的项目\Lucene.Net.Analysis.PanGu-master\src\PanGu\bin\Debug\PanGu.dll
+D:\我的项目\Lucene.Net.Analysis.PanGu-master\src\PanGu\bin\Debug\PanGu.pdb
+D:\我的项目\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Debug\PanGu.csprojResolveAssemblyReference.cache
+D:\我的项目\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Debug\PanGu.AnalyzerResource.resources
+D:\我的项目\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Debug\PanGu.csproj.GenerateResource.Cache
+D:\我的项目\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Debug\PanGu.dll
+D:\我的项目\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Debug\PanGu.pdb
+D:\我的项目\Lucenc.net\Lucene.Net.Analysis.PanGu-master\src\PanGu\bin\Debug\PanGu.dll
+D:\我的项目\Lucenc.net\Lucene.Net.Analysis.PanGu-master\src\PanGu\bin\Debug\PanGu.pdb
+D:\我的项目\Lucenc.net\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Debug\PanGu.AnalyzerResource.resources
+D:\我的项目\Lucenc.net\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Debug\PanGu.csproj.GenerateResource.Cache
+D:\我的项目\Lucenc.net\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Debug\PanGu.dll
+D:\我的项目\Lucenc.net\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Debug\PanGu.pdb
+D:\我的项目\Lucenc.net\configserver\PanGu\bin\Debug\PanGu.dll
+D:\我的项目\Lucenc.net\configserver\PanGu\bin\Debug\PanGu.pdb
+D:\我的项目\Lucenc.net\configserver\PanGu\obj\Debug\PanGu.AnalyzerResource.resources
+D:\我的项目\Lucenc.net\configserver\PanGu\obj\Debug\PanGu.csproj.GenerateResource.Cache
+D:\我的项目\Lucenc.net\configserver\PanGu\obj\Debug\PanGu.dll
+D:\我的项目\Lucenc.net\configserver\PanGu\obj\Debug\PanGu.pdb
+D:\我的项目\Lucenc.net\configserver\libs\PanGu.dll
+D:\我的项目\Lucenc.net\configserver\libs\PanGu.pdb
+D:\我的项目\Lucenc.net\configserver\PanGu\obj\Debug\PanGu.csprojResolveAssemblyReference.cache
+E:\程序\configserver\libs\PanGu.dll
+E:\程序\configserver\libs\PanGu.pdb
+E:\程序\configserver\PanGu\obj\Debug\PanGu.csprojResolveAssemblyReference.cache
+E:\程序\configserver\PanGu\obj\Debug\PanGu.AnalyzerResource.resources
+E:\程序\configserver\PanGu\obj\Debug\PanGu.csproj.GenerateResource.Cache
+E:\程序\configserver\PanGu\obj\Debug\PanGu.dll
+E:\程序\configserver\PanGu\obj\Debug\PanGu.pdb
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\libs\PanGu.dll
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\libs\PanGu.pdb
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\PanGu\obj\Debug\PanGu.AnalyzerResource.resources
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\PanGu\obj\Debug\PanGu.csproj.GenerateResource.Cache
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\PanGu\obj\Debug\PanGu.dll
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\PanGu\obj\Debug\PanGu.pdb
+D:\project\CardDataAnalysis\CardDataAnalysis\libs\PanGu.dll
+D:\project\CardDataAnalysis\CardDataAnalysis\libs\PanGu.pdb
+D:\project\CardDataAnalysis\CardDataAnalysis\PanGu\obj\Debug\PanGu.AnalyzerResource.resources
+D:\project\CardDataAnalysis\CardDataAnalysis\PanGu\obj\Debug\PanGu.csproj.GenerateResource.Cache
+D:\project\CardDataAnalysis\CardDataAnalysis\PanGu\obj\Debug\PanGu.csproj.CoreCompileInputs.cache
+D:\project\CardDataAnalysis\CardDataAnalysis\PanGu\obj\Debug\PanGu.dll
+D:\project\CardDataAnalysis\CardDataAnalysis\PanGu\obj\Debug\PanGu.pdb
+D:\project\CardDataAnalysis\CardDataAnalysis\PanGu\obj\Debug\PanGu.csprojAssemblyReference.cache
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\Util.Lucene\libs\PanGu.dll
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\Util.Lucene\libs\PanGu.pdb
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\Util.Lucene\PanGu\obj\Debug\PanGu.AnalyzerResource.resources
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\Util.Lucene\PanGu\obj\Debug\PanGu.csproj.GenerateResource.cache
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\Util.Lucene\PanGu\obj\Debug\PanGu.csproj.CoreCompileInputs.cache
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\Util.Lucene\PanGu\obj\Debug\PanGu.dll
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\Util.Lucene\PanGu\obj\Debug\PanGu.pdb
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\output\debug\PanGu.dll
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\output\debug\PanGu.pdb
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\Util.Lucene\PanGu\obj\Debug\PanGu.csprojAssemblyReference.cache

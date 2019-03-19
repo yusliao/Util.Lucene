@@ -1,0 +1,35 @@
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu\bin\Release\PanGu.dll
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu\bin\Release\PanGu.pdb
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu\obj\Release\PanGu.AnalyzerResource.resources
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu\obj\Release\PanGu.csproj.GenerateResource.Cache
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu\obj\Release\PanGu.dll
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu\obj\Release\PanGu.pdb
+D:\GitHub\Lucene.Net.Analysis.PanGu\src\PanGu\obj\Release\PanGu.csprojResolveAssemblyReference.cache
+C:\Users\Aren\Downloads\Lucene.Net.Analysis.PanGu-master\Lucene.Net.Analysis.PanGu-master\src\PanGu\bin\Release\PanGu.dll
+C:\Users\Aren\Downloads\Lucene.Net.Analysis.PanGu-master\Lucene.Net.Analysis.PanGu-master\src\PanGu\bin\Release\PanGu.pdb
+C:\Users\Aren\Downloads\Lucene.Net.Analysis.PanGu-master\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Release\PanGu.csprojResolveAssemblyReference.cache
+C:\Users\Aren\Downloads\Lucene.Net.Analysis.PanGu-master\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Release\PanGu.AnalyzerResource.resources
+C:\Users\Aren\Downloads\Lucene.Net.Analysis.PanGu-master\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Release\PanGu.csproj.GenerateResource.Cache
+C:\Users\Aren\Downloads\Lucene.Net.Analysis.PanGu-master\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Release\PanGu.dll
+C:\Users\Aren\Downloads\Lucene.Net.Analysis.PanGu-master\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Release\PanGu.pdb
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu\bin\Release\PanGu.dll
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu\bin\Release\PanGu.pdb
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Release\PanGu.csprojResolveAssemblyReference.cache
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Release\PanGu.AnalyzerResource.resources
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Release\PanGu.csproj.GenerateResource.Cache
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Release\PanGu.dll
+D:\my documents\MyProject\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Release\PanGu.pdb
+D:\我的项目\Lucene.Net.Analysis.PanGu-master\src\PanGu\bin\Release\PanGu.dll
+D:\我的项目\Lucene.Net.Analysis.PanGu-master\src\PanGu\bin\Release\PanGu.pdb
+D:\我的项目\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Release\PanGu.csprojResolveAssemblyReference.cache
+D:\我的项目\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Release\PanGu.AnalyzerResource.resources
+D:\我的项目\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Release\PanGu.csproj.GenerateResource.Cache
+D:\我的项目\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Release\PanGu.dll
+D:\我的项目\Lucene.Net.Analysis.PanGu-master\src\PanGu\obj\Release\PanGu.pdb
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\PanGu\bin\Release\PanGu.dll
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\PanGu\bin\Release\PanGu.pdb
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\PanGu\obj\Release\PanGu.csprojResolveAssemblyReference.cache
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\PanGu\obj\Release\PanGu.AnalyzerResource.resources
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\PanGu\obj\Release\PanGu.csproj.GenerateResource.Cache
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\PanGu\obj\Release\PanGu.dll
+C:\Users\john\Documents\Visual Studio 2013\Projects\CardDataAnalysis\PanGu\obj\Release\PanGu.pdb

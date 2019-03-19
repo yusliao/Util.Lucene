@@ -1,0 +1,6 @@
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\output\debug\Models.dll
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\output\debug\Models.pdb
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\Util.Lucene\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\Util.Lucene\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\Util.Lucene\Models\obj\Debug\Models.dll
+C:\Users\wangxk\Documents\GitHub\Util.Lucene\Util.Lucene\Models\obj\Debug\Models.pdb
